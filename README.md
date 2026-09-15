@@ -8,21 +8,21 @@ this project is a simple personal profile website created to introduce myself an
 The website contains information about me, my skills and contact information.
 
 ## Features
-. About Me Section 
-. Skills Section 
-. Interest Section
-. Contact Section
-. Profile Image  
-. Navigation menu 
-. Responsive Design
-. Basic HTML and CSS styling
+1. About Me Section 
+2. Skills Section 
+3. Interest Section
+4. Contact Section
+5. Profile Image  
+6. Navigation menu 
+7. Responsive Design
+8. Basic HTML and CSS styling
 
 ## Technologies Used
-. HTML
-. CSS
-. Git
-. GitHub
-. Visual Studio Code
+1. HTML
+2. CSS
+3. Git
+4. GitHub
+5. Visual Studio Code
 
 
 ## Project Structure
