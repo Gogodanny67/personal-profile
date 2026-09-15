@@ -26,7 +26,7 @@ The website contains information about me, my skills and contact information.
 
 
 ## Project Structure
-'''text
+''' text
 personal-profile/
 |-index.html
 |-style.css
