@@ -1,13 +1,13 @@
-#Personal profile Website
+# Personal profile Website
 
-##About the Project
+## About the Project
 
 this project is a simple personal profile website created to introduce myself and demonstrate my basic understanding of web develpoment, the internet, and Git/GitHub.
 
 
 The website contains information about me, my skills and contact information.
 
-##Features
+## Features
 .About Me Section 
 .Skills Section 
 .Interest Section
@@ -17,7 +17,7 @@ The website contains information about me, my skills and contact information.
 .Responsive Design
 .Basic HTML and CSS styling
 
-##Technologies Used
+## Technologies Used
 .HTML
 .CSS
 .Git
@@ -25,7 +25,7 @@ The website contains information about me, my skills and contact information.
 .Visual Studio Code
 
 
-##Project Structure
+## Project Structure
 '''text
 personal-profile/
 |-index.html
@@ -35,14 +35,14 @@ personal-profile/
     |-profile.jpg
 '''
 
-##How to Run the Project
+## How to Run the Project
 1. Download or clone the repository.
 2. Open the project folder in Visual Studio Code
 3. Open index.html in a web browser
 
-##Author 
+## Author 
 
- Gogo Daniel
+ ## Gogo Daniel
 
- Software Engineering Student.
+ ## Software Engineering Student.
 #
